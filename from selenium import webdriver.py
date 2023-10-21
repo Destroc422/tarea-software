@@ -1,4 +1,4 @@
-import esto es una automatizacin desde Visual Studio Code!
+import pyautogui
 import time
 import subprocess
 
